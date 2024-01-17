@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    background-color: black;
+}
+table {
+    border-collapse: collapse;
+}
+h1 {
+    color: white;
+    letter-spacing: 1.4px;
+}
+#search {
+    width: 300px;
+    height: 30px;
+    padding-left: 10px;
+}
+.emoji {
+    font-size: 50px;
+}
+.emoji-name {
+    font-size: 30px;
+    color: white;
+    padding-left: 400px;
+    letter-spacing: 1.4px;
+}
+.description {
+    font-size: 20px;
+    color: white;
+    padding-left: 60px;
+    letter-spacing: 1.2px;
+}
+tr {
+    display: table-row;
+    border-bottom: 1px solid gray;
+}
